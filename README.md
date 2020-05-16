@@ -8,10 +8,10 @@
 <img src="laptop_ss3.png" alt="red screen-laptop">
 
 <h3>Landing Page on Mobile Devices</h3>
-<img src="mobile_ss1.png" alt="green screen-mobile">
+<img src="mobile_ss1.jpg" alt="green screen-mobile">
 
 <h3>Checking a cold place on Mobile Devices</h3>
-<img src="mobile_ss2.png" alt="blue screen-mobile">
+<img src="mobile_ss2.jpg" alt="blue screen-mobile">
 
 <h3>Checking a warm place on Mobile Devices</h3>
-<img src="mobile_ss3.png" alt="red screen-mobile">
+<img src="mobile_ss3.jpg" alt="red screen-mobile">
